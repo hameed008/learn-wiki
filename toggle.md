@@ -1,67 +1,20 @@
-# Toggle List Example
+# Colored Text Example
 
-Below is an example of a toggle list created using HTML and JavaScript.
+Here is an example of changing text color using HTML and inline CSS.
 
 ```html
-<script>
-  function toggleContent(id) {
-    var content = document.getElementById(id);
-    if (content.style.display === "none") {
-      content.style.display = "block";
-    } else {
-      content.style.display = "none";
-    }
-  }
-</script>
+<span style="color: red;">Red text</span>
 
-<h2 onclick="toggleContent('section1')">Section 1</h2>
-<div id="section1" style="display:none;">
-  <p>This is the content of section 1.</p>
-</div>
+<span style="color: blue;">Blue text</span>
 
-<h2 onclick="toggleContent('section2')">Section 2</h2>
-<div id="section2" style="display:none;">
-  <p>This is the content of section 2.</p>
-</div>
+<span style="color: green;">Green text</span>
 
-<h2 onclick="toggleContent('section3')">Section 3</h2>
-<div id="section3" style="display:none;">
-  <p>This is the content of section 3.</p>
-</div>
-```
+# Colored Text Example
 
-# Toggle List Example
+Here is an example of changing text color using HTML and inline CSS.
 
-Below is an example of a toggle list created using HTML and JavaScript.
+<span style="color: red;">Red text</span>
 
-<script>
-  function toggleContent(id) {
-    var content = document.getElementById(id);
-    if (content.style.display === "none") {
-      content.style.display = "block";
-    } else {
-      content.style.display = "none";
-    }
-  }
-</script>
+<span style="color: blue;">Blue text</span>
 
-## Section 1
-
-<h2 onclick="toggleContent('section1')">Section 1</h2>
-<div id="section1" style="display:none;">
-  <p>This is the content of section 1.</p>
-</div>
-
-## Section 2
-
-<h2 onclick="toggleContent('section2')">Section 2</h2>
-<div id="section2" style="display:none;">
-  <p>This is the content of section 2.</p>
-</div>
-
-## Section 3
-
-<h2 onclick="toggleContent('section3')">Section 3</h2>
-<div id="section3" style="display:none;">
-  <p>This is the content of section 3.</p>
-</div>
+<span style="color: green;">Green text</span>
