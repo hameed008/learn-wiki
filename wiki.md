@@ -2,6 +2,8 @@
 
 ## Wiki Commands or Syntax
 
+# Types Of Headings:
+
 # Heading 1
 
 hash(#) is used to create heading 1
@@ -25,6 +27,8 @@ hash(#####) is used to create heading 5
 ###### Heading 6
 
 hash(######) is used to create heading 6
+
+# Formating Text:
 
 - dash (-): is used to create bullet points.
 
