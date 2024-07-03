@@ -16,12 +16,12 @@ A wiki file, in the context of GitHub, refers to a Markdown file that is part of
 
 ## Creating and Managing Wiki Pages:
 
-### 1. Accessing the Wiki:
+## 1. Accessing the Wiki:
 
 - **Navigate to Your Repository**: Go to your GitHub repository.
 - **Click on the "Wiki" Tab**: This tab is located near the top of the repository page.
 
-### 2. Creating a New Page:
+## 2. Creating a New Page:
 
 - **Click "New Page"**: You can find this button within the wiki section.
 
@@ -62,7 +62,9 @@ hash(######) is used to create heading 6
 ### Emphasis:
 
 _Italic_ or _Italic_: `*italic*` or `_italic_`
+
 **Bold** or **Bold**: `**bold**` or `_bold_`
+
 **_Bold and Italic_** or **_Bold and Italic_**: `***Bold and Italic*** or ___Bold and Italic___`
 
 ### Lists:
@@ -109,3 +111,43 @@ console.log("Hello, world!");
 | Row 2    | Data 2   |
 
 ## 4. Use VS Code Commands and Shortcuts
+
+### Markdown Preview:
+
+1: Open Preview: Ctrl+Shift+V (Windows/Linux) or Cmd+Shift+V (Mac).
+2: Toggle Preview Side-by-Side: Ctrl+K V (Windows/Linux) or Cmd+K V (Mac).
+
+### Markdown All in One Commands\*\*:
+
+- **Create Table of Contents**: **`Ctrl+Shift+P`** (Windows/Linux) or **`Cmd+Shift+P`** (Mac), then type **`Markdown All in One: Create Table of Contents`**.
+  - **Toggle List**: Automatically format lists.
+  - **Toggle Task List**: Convert list items to checkboxes.
+
+**Format Document**:
+**Format Document**: **`Shift+Alt+F`** (Windows/Linux) or **`Shift+Option+F`** (Mac).
+
+## 5. Advanced Formatting and Features:
+
+### Task Lists:
+
+- [ ] Task 1
+- [x] Task 2 (completed)
+
+### Footnotes:
+
+Here is a footnote reference[^1].
+
+[^1]: Here is the footnote.
+
+### Blockquotes:
+
+> This is a blockquote.
+
+### Horizontal Rule:
+
+---
+
+## 6. Preview and Export:
+
+- **Preview**: Use the Markdown Preview Enhanced extension for a more feature-rich preview.
+- **Export**: You can export your Markdown to various formats (e.g., HTML, PDF) using extensions like Markdown PDF.
