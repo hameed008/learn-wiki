@@ -27,7 +27,7 @@ hash(#####) is used to create heading 5
 hash(######) is used to create heading 6
 
 - dash (-): is used to create bullet points.
-  **Bold Text**: is used to bold a text
+  **Bold Text**: `**Text**` is used to bold a text
 
 ## Table of Contents
 
