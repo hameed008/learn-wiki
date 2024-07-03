@@ -36,27 +36,27 @@ Italic: _italicized text_
 ### Headers:
 
 - # Heading 1
+
   - hash(#) is used to create heading 1
 
-## Heading 2
+- ## Heading 2
 
-hash(##) is used to create heading 2
+  - hash(##) is used to create heading 2
 
-### Heading 3
+- ### Heading 3
 
-hash(###) is used to create heading 3
+  - hash(###) is used to create heading 3
 
-#### Heading 4
+- #### Heading 4
 
-hash(####) is used to create heading 4
+  - hash(####) is used to create heading 4
 
-##### Heading 5
+- ##### Heading 5
 
-hash(#####) is used to create heading 5
+  - hash(#####) is used to create heading 5
 
-###### Heading 6
-
-hash(######) is used to create heading 6
+- ###### Heading 6
+  - hash(######) is used to create heading 6
 
 ### Emphasis:
 
