@@ -87,7 +87,7 @@ _Italic_ or _Italic_: `*italic*` or `_italic_`
 ### Links and Images:
 
 **Link**:
-[Link text](https://google.com/)
+[Google](https://google.com/)
 
 **Image**:
 ![Alt text](https://github.com/hameed008/learn-wiki/blob/main/blue-5457731.jpg)
