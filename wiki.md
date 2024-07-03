@@ -1,8 +1,39 @@
-# Learn To use Wiki:
+# Learn To use GitHub Wiki:
 
-## Wiki Commands or Syntax
+## Introduction To GitHub Wiki:
 
-# Types Of Headings:
+A wiki file, in the context of GitHub, refers to a Markdown file that is part of a project's wiki. GitHub Wikis provide a way to document your project in an organized manner using Markdown, a lightweight markup language. A wiki is often used to provide information such as installation guides, usage instructions, API documentation, and more.
+
+## Key Features of a GitHub Wiki:
+
+- **Markdown Syntax**: Wikis use Markdown syntax to format text, making it easy to write and read documentation.
+
+- **Version Control**: Like the main repository, the wiki is version-controlled. You can track changes, revert to previous versions, and collaborate with others.
+
+- **Separate Repository**: Each GitHub wiki is a separate Git repository, allowing for independent management.
+
+- **Ease of Access**: Wikis are easily accessible from the repository's main page under the "Wiki" tab.
+
+## Creating and Managing Wiki Pages:
+
+### 1. Accessing the Wiki:
+
+- **Navigate to Your Repository**: Go to your GitHub repository.
+- **Click on the "Wiki" Tab**: This tab is located near the top of the repository page.
+
+### 2. Creating a New Page:
+
+- **Click "New Page"**: You can find this button within the wiki section.
+
+- **Write Your Content**: Use Markdown to format your content. Here’s a brief overview of some common Markdown syntax:
+
+## 3. Basic Markdown Syntax:
+
+Headers: # Header 1, ## Header 2, etc.
+Bold: **bold text**
+Italic: _italicized text_
+
+### Headers:
 
 # Heading 1
 
@@ -28,27 +59,53 @@ hash(#####) is used to create heading 5
 
 hash(######) is used to create heading 6
 
-# Formating Text:
+### Emphasis:
 
-- dash (-): is used to create bullet points.
+_Italic_ or _Italic_: `*italic*` or `_italic_`
+**Bold** or **Bold**: `**bold**` or `_bold_`
+**_Bold and Italic_** or **_Bold and Italic_**: `***Bold and Italic*** or ___Bold and Italic___`
 
-**Bold Text**: `**Text**` is used to bold a text
+### Lists:
 
-## Table of Contents
+**Unordered List**:
 
-<!-- TOC -->
+- Item 1
+- Item 2
 
-## Features
+  - Subitem 1
+  - Subitem 2
 
-- **Feature 1**: Description of feature 1.
-- **Feature 2**: Description of feature 2.
+### Ordered List:
 
-## Installation
+1. Item 1
+2. Item 2
+   1. Subitem 1
+   2. Subitem 2
 
-To install the project, follow these steps:
+### Links and Images:
 
-```bash
-git clone https://github.com/your-repo/project.git
-cd project
-npm install
+**Link**:
+[Link text](http://example.com)
+
+**Image**:
+![Alt text](http://example.com/image.jpg)
+
+### Code Blocks:
+
+**nline Code**:
+`inline code`
+
+**Block of Code**:
+
+```javascript
+console.log("Hello, world!");
 ```
+
+### Tables:
+
+| Header 1 | Header 2 |
+| -------- | -------- |
+| Row 1    | Data 1   |
+| Row 2    | Data 2   |
+
+## 4. Use VS Code Commands and Shortcuts
