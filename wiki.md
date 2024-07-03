@@ -117,7 +117,7 @@ console.log("Hello, world!");
 1: Open Preview: Ctrl+Shift+V (Windows/Linux) or Cmd+Shift+V (Mac).
 2: Toggle Preview Side-by-Side: Ctrl+K V (Windows/Linux) or Cmd+K V (Mac).
 
-### Markdown All in One Commands\*\*:
+### Markdown All in One Commands:
 
 - **Create Table of Contents**: **`Ctrl+Shift+P`** (Windows/Linux) or **`Cmd+Shift+P`** (Mac), then type **`Markdown All in One: Create Table of Contents`**.
   - **Toggle List**: Automatically format lists.
@@ -151,3 +151,37 @@ Here is a footnote reference[^1].
 
 - **Preview**: Use the Markdown Preview Enhanced extension for a more feature-rich preview.
 - **Export**: You can export your Markdown to various formats (e.g., HTML, PDF) using extensions like Markdown PDF.
+
+# Documentation
+
+## Select Section
+
+Choose a section to read more about:
+
+<select onchange="location = this.value;">
+  <option value="#">Select a Section</option>
+  <option value="#introduction">Introduction</option>
+  <option value="#installation">Installation</option>
+  <option value="#usage">Usage</option>
+  <option value="#contributing">Contributing</option>
+</select>
+
+## Introduction
+
+<a name="introduction"></a>
+Welcome to the introduction section.
+
+## Installation
+
+<a name="installation"></a>
+Here are the installation instructions.
+
+## Usage
+
+<a name="usage"></a>
+Here is how you use the project.
+
+## Contributing
+
+<a name="contributing"></a>
+Here is how you can contribute to the project.
