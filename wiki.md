@@ -36,7 +36,7 @@ Italic: _italicized text_
 ### Headers:
 
 - # Heading 1
-- hash(#) is used to create heading 1
+  - hash(#) is used to create heading 1
 
 ## Heading 2
 
