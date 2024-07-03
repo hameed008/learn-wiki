@@ -1,8 +1,33 @@
-# Project Wiki
+# Learn To use Wiki:
 
-## Introduction
+## Wiki Commands or Syntax
 
-Welcome to the project wiki! This document provides an overview of the project.
+# Heading 1
+
+hash(#) is used to create heading 1
+
+## Heading 2
+
+hash(##) is used to create heading 2
+
+### Heading 3
+
+hash(###) is used to create heading 3
+
+#### Heading 4
+
+hash(####) is used to create heading 4
+
+##### Heading 5
+
+hash(#####) is used to create heading 5
+
+###### Heading 6
+
+hash(######) is used to create heading 6
+
+- dash (-): is used to create bullet points.
+  **Bold Text**: is used to bold a text
 
 ## Table of Contents
 
