@@ -1,5 +1,7 @@
 # Learn To use GitHub Wiki:
 
+Github Flavored Markdown (GFMD) is based on [Markdown Syntax Guide](https://daringfireball.net/projects/markdown/syntax#header) with some overwriting as described at [Github Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github)
+
 ## Introduction To GitHub Wiki:
 
 A wiki file, in the context of GitHub, refers to a Markdown file that is part of a project's wiki. GitHub Wikis provide a way to document your project in an organized manner using Markdown, a lightweight markup language. A wiki is often used to provide information such as installation guides, usage instructions, API documentation, and more.
